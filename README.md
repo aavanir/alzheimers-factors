@@ -1,0 +1,2 @@
+This project analyzed the influence of estimated total intracranial volume, normalized whole brain volume, gender, and socioeconomic status on Alzheimer’s Disease diagnosis. Utilized machine learning models, including XGBoost (55% accuracy), Logistic Regression (55% accuracy), and
+Random Forest (45% accuracy), along with Jupyter Notebook for advanced data analysis and feature importance evaluation, employing Pandas for data manipulation, and Seaborn and Matplotlib for visualization
